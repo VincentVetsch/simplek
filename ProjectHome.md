@@ -1,0 +1,1 @@
+One morning I wake up, and set the Simple K Project, a set of useful (at least for me), scripts, code, and small applications, I use to integrate in a larger development projects.
